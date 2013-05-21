@@ -1,1 +1,0 @@
-C:\GitLocal\msn\MsnGuiApp\MsnGuiApp\bin\Debug\MsnGuiApp.exe.config
